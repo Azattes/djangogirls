@@ -1,1 +1,5 @@
 HELLO_DJANGO 
+.env
+db.sqlite3
+requirements
+venv
